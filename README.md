@@ -1,6 +1,6 @@
 # Java Programming Code Repository
 
-![Java Logo](URL_TO_JAVA_LOGO)
+![Java Logo](https://github.com/sivajisj/java-100-codes-prep/blob/main/icons8-java%20(1).gif)
 
 Welcome to the **Java Programming Code Repository**! Here, you'll find a comprehensive collection of Java codes spanning various topics, from foundational concepts to advanced projects.
 
