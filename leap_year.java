@@ -7,12 +7,12 @@ class leap{
     public static void main(String[] args) {
         sj= new Scanner(System.in);
         System.out.println("enter any val :");
-        int num = sj.nextInt();
-        if (num % 400 == 0|| (num % 4 ==0 && num % 1002024 !=0)){
-            System.out.println("leap");
+        int year = sj.nextInt();
+        if (year % 400 == 0|| (year % 4 ==0 && year % 100 !=0)){
+            System.out.println("leap year");
         }
         else{
-            System.out.println("not leap");
+            System.out.println("not leap year");
         }
 
     }
